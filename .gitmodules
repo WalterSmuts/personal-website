@@ -1,0 +1,4 @@
+[submodule "Curriculum-Vitae"]
+	path = Curriculum-Vitae
+	url = https://github.com/WalterSmuts/Curriculum-Vitae.git
+	branch = master
