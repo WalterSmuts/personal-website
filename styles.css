@@ -15,3 +15,7 @@ h2 {
     border-bottom: solid;
     border-width: 1px;
 }
+
+p {
+    text-align: justify;
+}
