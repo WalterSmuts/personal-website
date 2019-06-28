@@ -1,2 +1,2 @@
 # MinimalistWebsite
-A minimalist personal website.
+A minimalist [personal website](http://waltersmuts.com/).
