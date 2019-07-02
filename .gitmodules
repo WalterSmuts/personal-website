@@ -2,3 +2,6 @@
 	path = Curriculum-Vitae
 	url = https://github.com/WalterSmuts/Curriculum-Vitae.git
 	branch = master
+[submodule "Pitch-Correction-Thesis"]
+	path = Pitch-Correction-Thesis
+	url = https://github.com/WalterSmuts/Pitch-Correction-Thesis.git
