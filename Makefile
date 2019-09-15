@@ -10,4 +10,5 @@ deploy: CV Thesis
 	cp 'Pitch-Correction-Thesis/Walter Smuts - Pitch Correction of Digital Audio.pdf' $(DeployDir)
 	cp 'Curriculum-Vitae/Walter Smuts - Curriculum Vitae.pdf' $(DeployDir)
 	cp favicon.png $(DeployDir)
+	cp walter.png $(DeployDir)
 	cp styles.css $(DeployDir)
