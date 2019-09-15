@@ -3,6 +3,7 @@ body {
     margin: 1em auto;
     width: 50em;
     max-width: calc(100% - 2em);
+    background-color: whitesmoke;
 }
 
 h1 {
