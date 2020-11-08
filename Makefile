@@ -1,4 +1,4 @@
-DeployDir = /var/www/html
+DeployDir = /srv/http/
 Thesis:
 	$(MAKE) -C Pitch-Correction-Thesis
 
