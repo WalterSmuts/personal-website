@@ -5,3 +5,6 @@
 [submodule "Pitch-Correction-Thesis"]
 	path = Pitch-Correction-Thesis
 	url = https://github.com/WalterSmuts/Pitch-Correction-Thesis.git
+[submodule "clipboard-website"]
+	path = clipboard-website
+	url = https://github.com/WalterSmuts/clipboard-website.git

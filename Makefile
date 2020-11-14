@@ -12,3 +12,4 @@ deploy: CV Thesis
 	cp favicon.png $(DeployDir)
 	cp walter.png $(DeployDir)
 	cp styles.css $(DeployDir)
+	$(MAKE) -C clipboard-website
