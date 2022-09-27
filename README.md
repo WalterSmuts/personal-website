@@ -1,2 +1,2 @@
-# MinimalistWebsite
-A minimalist [personal website](http://waltersmuts.com/).
+# Personal Website
+A [personal website](http://waltersmuts.com/).
